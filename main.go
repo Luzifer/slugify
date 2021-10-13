@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Luzifer/rconfig"
+	"github.com/Luzifer/rconfig/v2"
 	"github.com/gosimple/slug"
 )
 
